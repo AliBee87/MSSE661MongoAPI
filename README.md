@@ -1,6 +1,6 @@
 ## How Do You Like Your Salmon? 
 
-The purpose of this project is to provide the backend for my web page, "How Do You Like Your Salmon?" The goal of the final project is to prompt the user with a series of questions that will provide them with a salmon recipe respective to their choices. This project is built with JavaScript using Node Express and **tested with Thunder Client** in VS. 
+The purpose of this project is to provide the backend for my web page, "How Do You Like Your Salmon?" The goal of the final project is to prompt the user with a series of questions that will provide them with a salmon recipe respective to their choices. This project is built with **JavaScript using Node Express and tested with Thunder Client** in VS. 
 
 # Getting Started
 

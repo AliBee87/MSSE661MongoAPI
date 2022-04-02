@@ -19,7 +19,7 @@ After **_installing NPM, install the following packages using_**:
     npm i uuid
    ```
     
-You'll need to **_create an environment folder and in it write_**:
+You'll need to **_create a .env file in the file tree at the root. In it write_**:
     
     ACCESS_TOKEN_SECRET=
     REFRESH_TOKEN_SECRET=

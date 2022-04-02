@@ -66,11 +66,3 @@ module.exports = {
     deleteRecipe,
     getRecipe
 }
-
-module.exports = {
-    getAllRecipes,
-    createNewRecipe,
-    updateRecipe,
-    deleteRecipe,
-    getRecipe
-}

@@ -13,7 +13,6 @@ After **_installing NPM, install the following packages using_**:
     npm i cors
     npm i date-fns
     npm i bcrypt
-    npm i bcrypt
     npm i dotenv
     npm i express
     npm i jsonwebtoken

@@ -37,7 +37,7 @@ Generate, copy and paste each output from these commands to both ACCESS_TOKEN_SE
     
 ## Additional Project Details : 
 
-After some work, and directly following Dave Grey's YouTube tutorials on getting a server going, I finally have my server and API running! Though I don't have much against which to compare Thunder Client, I thought it was pretty neat to be able to run my tests with it inside VS.
+After some work, and following Dave Grey's YouTube tutorials, I finally have my server and API running! Though I don't have much against which to compare Thunder Client, I thought it was pretty neat to be able to run my tests with it inside VS.
 
 In this code, you will find the following files:
 

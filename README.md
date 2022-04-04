@@ -28,7 +28,7 @@ After installing NPM, ensure the following packages are installed. If not, you c
     npm i uuid
    ```
     
-You'll need to **_create a .env file in the file tree at the root. In it write_**:
+You'll need to **_create a .env file in the file tree at the root. In it copy and paste the following_**:
     
     ACCESS_TOKEN_SECRET=
     REFRESH_TOKEN_SECRET=
@@ -48,10 +48,10 @@ Generate, copy and paste each output from these commands to both ACCESS_TOKEN_SE
   - Under "Security" select "Database Access"
   - Select "Add New Database User" and keep the Authentication Method at Password
   - Enter user and password, copy, select "Add User"
-  - Back in your editor, enter the username and password into the Database URI, excluding the carrots
+  - Back in your editor, in the .env, enter the username and password into the Database URI, excluding the carrots
   
 
-Then, in your terminal, enter npm run dev
+**Then, in your terminal, enter npm run dev, and you should be good to go!**
          
   
   

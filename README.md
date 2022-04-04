@@ -52,6 +52,10 @@ Generate, copy and paste each output from these commands to both ACCESS_TOKEN_SE
   
 
 **Then, in your terminal, enter npm run dev, and you should be good to go!**
+
+## Additional Notes
+
+All I've got running so far is the home page. If you select "Take Quiz" you're not going to get anywhere. Thanks for checking my page out! 
          
   
   
